@@ -4,7 +4,8 @@ This project is a **Power BI dashboard** designed to provide insights into sales
 
 ## 📊 Dashboard Overview
 
-![E-commerce Sales Dashboard](0357cce0-6763-41e4-b689-43f706189ebf.png)
+![image](https://github.com/user-attachments/assets/2140f31d-d35f-4713-b9b1-f19e8560f4f4)
+
 
 ### Key Metrics:
 - **Sum of Amount:** 13K
